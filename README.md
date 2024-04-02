@@ -1,5 +1,7 @@
 # Superstore Business Analysis
 
+![image](https://github.com/jasondo-da/Superstore_Business_Analysis/assets/138195365/6c7122eb-e75b-47e3-9553-9341c38221f7)
+
 ## Table of Contents
 
 - [Project Introduction](#project-introduction)
@@ -82,9 +84,6 @@ Part 3: Advertising
 - Located multiple opportunities for revenue growth in three US locations by increasing ad spending 
 
 - Identified the categories that generates the most profit for Superstore that could be used for ads
-
-![image](https://github.com/jasondo-da/Superstore_Business_Analysis/assets/138195365/6c7122eb-e75b-47e3-9553-9341c38221f7)
-
 
 ## Executive Summary
 
