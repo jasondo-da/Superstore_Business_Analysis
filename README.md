@@ -1,6 +1,6 @@
 # Superstore Business Analysis
 
-![image](https://github.com/jasondo-da/Superstore_Business_Analysis/assets/138195365/6c7122eb-e75b-47e3-9553-9341c38221f7)
+![image](https://github.com/jasondo-da/Superstore_Business_Analysis/assets/138195365/13d4feae-8bb9-4fa8-857e-c19a0e88db25)
 
 ## Table of Contents
 
@@ -111,3 +111,4 @@ Returns Suggestions:
 
 - Customers with 50+ returns should be asked a survey on their customer experience to see what their issues are with the products they are frequently returning
 
+![image](https://github.com/jasondo-da/Superstore_Business_Analysis/assets/138195365/6c7122eb-e75b-47e3-9553-9341c38221f7)
