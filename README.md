@@ -21,7 +21,7 @@ The Superstore business is financially struggling and is considering going into 
 
 Full Superstore Business Analysis on Tableau link.
 
-Link: [Saving Superstore](https://public.tableau.com/app/profile/jason.do5779/viz/saving_superstore_analysis_csv/Dashboard1)
+Link: [Saving Superstore](https://public.tableau.com/views/saving_super_store_1_csv_16834374314280/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Saving Superstore Dataset
 
@@ -111,4 +111,4 @@ Returns Suggestions:
 
 - Customers with 50+ returns should be asked a survey on their customer experience to see what their issues are with the products they are frequently returning
 
-![image](https://github.com/jasondo-da/Superstore_Business_Analysis/assets/138195365/6c7122eb-e75b-47e3-9553-9341c38221f7)
+![image](https://github.com/user-attachments/assets/bbf621cd-70cb-4b88-9d0d-a86a565f672d)
