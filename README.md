@@ -7,7 +7,6 @@
 - [Project Introduction](#project-introduction)
     - [Saving Superstore Tableau Dashboard](#saving-superstore-tableau-dashboard)
     - [Saving Superstore Dataset](#saving-superstore-dataset)
-- [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Executive Summary](#executive-summary)
     - [Conclusion](#conclusion)
@@ -15,7 +14,7 @@
 
 ## Project Introduction
 
-The Superstore business is financially struggling and is considering going into bankruptcy. I have been hired as a consultant to review the Superstore's logistics and operations to increase its profitability and avoid bankruptcy. 
+The Superstore business is experiencing a significant financial downturn and must consider bankruptcy. I have been hired as a consultant to review the Superstore's logistics and operations to increase its profitability and avoid bankruptcy. The objective is to save the Superstore from bankruptcy by optimizing the business and increasing profitability. The key focus areas include product analysis, cash flow analysis, and discovering alternative methods to increase revenue and cash flow.
 
 ### Saving Superstore Tableau Dashboard
 
@@ -51,9 +50,6 @@ Link: [Saving Superstore Github Dataset](https://github.com/jasondo-da/Superstor
 | Discount | Discount amount |
 | Profit | Amount profited from order |
 
-## Objective
-
-The objective of our client is to save Superstore from bankruptcy and increase profitability. The key focus areas include product analysis, cash flow analysis, and discovering alternative methods to increase revenue and cash flow.
 
 ## Analysis Outline
 
