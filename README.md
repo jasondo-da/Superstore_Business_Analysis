@@ -16,13 +16,13 @@
 
 The Superstore business is experiencing a significant financial downturn and must consider bankruptcy. I have been hired as a consultant to review the Superstore's logistics and operations to increase its profitability and avoid bankruptcy. The objective is to save the Superstore from bankruptcy by optimizing the business and increasing profitability. The key focus areas include product analysis, cash flow analysis, and discovering alternative methods to increase revenue and cash flow.
 
-### Saving Superstore Tableau Dashboard
+## Saving Superstore Tableau Dashboard
 
 Full Superstore Business Analysis on Tableau link.
 
 Link: [Saving Superstore](https://public.tableau.com/views/saving_super_store_1_csv_16834374314280/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### Saving Superstore Dataset
+## Saving Superstore Dataset
 
 Link: [Saving Superstore Github Dataset](https://github.com/jasondo-da/Superstore_Business_Analysis/blob/main/Superstore.xls)
 
